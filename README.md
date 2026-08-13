@@ -10,6 +10,10 @@ applied in real time with an orbital camera, saved per plate.
 
 ---
 
+<p align="center">
+  <img src="images/panel.png" alt="Stancer panel" width="560">
+</p>
+
 ## What it does
 
 A tablet-style panel where every slider applies to the car **as you drag it**, with the
@@ -56,6 +60,14 @@ Or leave it off and the item simply opens the panel.
 
 Fixed points on the map with blips and a `[E] Open Stancer` prompt, each one optionally
 restricted to a job or group.
+
+## Screenshots
+
+The Wheels tab, locked until aftermarket wheels are fitted:
+
+<p align="center">
+  <img src="images/wheels.png" alt="Wheels tab" width="560">
+</p>
 
 ## Requirements
 
